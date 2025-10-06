@@ -153,3 +153,5 @@ plt.show()
 print("=== HASIL SIMULASI ===")
 print(f"Dengan drag : Jarak = {xs_drag[-1]:.2f} m, Waktu = {times_drag[-1]:.2f} s")
 print(f"Tanpa drag  : Jarak = {x_analytical[-1]:.2f} m, Waktu = {T_flight:.2f} s")
+
+# Silahkan di tambahkan jika ada ide lain terkait gerak peluru ini. 
